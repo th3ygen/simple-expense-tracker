@@ -1,0 +1,11 @@
+{
+  "name": "simple-expense-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/th3ygen/simple-expense-tracker.git",
+  "author": "Aidil <th3ygen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "install": "cd frontend && yarn install && cd ../backend && yarn install"
+  }
+}
